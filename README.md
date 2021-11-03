@@ -1,8 +1,8 @@
 # Network Design-Lab
 Network Devlopment Lab Mini Project
 
-Network Design overview
-•	There is a single main building consists of six departments.
+Network Design overview                 
+•	There is a single main building consists of six departments. 
 •	The main building has 2 floors and a ground floor.
 •	The servers are situated in the ground floor of the building.
 •	We have used different Servers, Routers, Switches, Access Points, Printers, IP-Phones, Personal Computers and Laptops.
