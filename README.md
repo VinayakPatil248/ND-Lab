@@ -1,5 +1,5 @@
 # Network Design-Lab
-Network Devlopment Lab Mini Project
+Network Devlopment Project
 
 Network Design overview                 
 •	There is a single main building consists of six departments. 
